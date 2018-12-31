@@ -1,0 +1,2 @@
+14:12:17.924 [main] INFO  com.miles.Log4j2Demo.main(Log4j2Demo.java:27) - 请求处理结束，耗时：86063毫秒
+14:12:17.974 [main] INFO  com.miles.Log4j2Demo.main(Log4j2Demo.java:28) - 请求处理结束，耗时：86113毫秒
